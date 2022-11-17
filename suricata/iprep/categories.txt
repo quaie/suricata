@@ -1,0 +1,6 @@
+1,BadHosts,Known bad hosts
+2,Google,Known google host
+3,MyIP,bad hosts
+4,blocklistDE,bad hosts
+5,abuse.ch,bad hosts
+6,talos,bad hosts

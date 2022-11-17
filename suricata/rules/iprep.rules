@@ -1,0 +1,4 @@
+alert ip any any -> any any (msg:"IPREP - Blocklist IP myip.ms"; iprep:any,MyIP,>,80; sid:5; rev:1;)
+alert ip any any -> any any (msg:"IPREP - Blocklist IP blacklistDE"; iprep:any,blocklistDE,>,80; sid:6; rev:1;)
+alert ip any any -> any any (msg:"IPREP - Blocklist IP abuse.ch"; iprep:any,abuse,>,80; sid:7; rev:1;)
+alert ip any any -> any any (msg:"IPREP - Blocklist IP talos"; iprep:any,talos,>,80; sid:8; rev:1;)

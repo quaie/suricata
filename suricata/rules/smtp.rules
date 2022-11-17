@@ -1,0 +1,2 @@
+alert smtp $HOME_NET any -> any 25 (msg:"TCP/25 SMTP "; sid:2; rev:4; metadata:created_at today;)
+alert tcp $HOME_NET any -> any 25 (msg:"TCP/25 SMTP 2"; sid:3; rev:4; metadata:created_at today;)
