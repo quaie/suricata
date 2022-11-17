@@ -1,0 +1,705 @@
+{"preview":false,"result":{"signatures":"ET INFO HTTP Request to Suspicious *.life Domain","number of events":"6"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"11"}}
+{"preview":false,"result":{"signatures":"ET INFO HTTP Request to a *.top domain","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET USER_AGENTS Observed Suspicious UA (Chrome)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"685"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.icu) in TLS SNI","ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M1"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain Request for Possible COVID-19 Domain M1","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Outdated Flash Version M1","GPL SNMP public access udp"],"number of events":"67"}}
+{"preview":false,"result":{"signatures":"ET POLICY Outdated Flash Version M1","number of events":"5"}}
+{"preview":false,"result":{"signatures":"Traffic to TCP/25 (SMTP)","number of events":"22"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"2"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"475"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"11"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential SSH Scan OUTBOUND","ET SCAN Suspicious inbound to mySQL port 3306"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"26"}}
+{"preview":false,"result":{"signatures":["ET POLICY Cryptocurrency Miner Checkin","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY W32/BitCoinMiner.MultiThreat Subscribe/Authorize Stratum Protocol Message"],"number of events":"17"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"6"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5.","ET POLICY Unsupported/Fake Windows NT Version 5.0"],"number of events":"11"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"25"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"89"}}
+{"preview":false,"result":{"signatures":"ET INFO HTTP Request to a *.top domain","number of events":"4"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"6"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"107"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET WEB_CLIENT SUSPICIOUS Possible automated connectivity check (www.google.com)"],"number of events":"41"}}
+{"preview":false,"result":{"signatures":"ET USER_AGENTS Observed Suspicious UA (NSIS_Inetc (Mozilla))","number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","IPREP - Blocklist IP blacklistDE"],"number of events":"8"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M1","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY Cryptocurrency Miner Checkin","number of events":"137"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible Malicious NAT-PMP Response to External Network","GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP blacklistDE"],"number of events":"8"}}
+{"preview":false,"result":{"signatures":"PROTOCOL-ICMP Time-To-Live Exceeded in Transit","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY possible OnePlus phone data leakage DNS","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.cf) in TLS SNI","ET INFO Suspicious Domain Request for Possible COVID-19 Domain M2"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"12"}}
+{"preview":false,"result":{"signatures":"ET INFO HTTP Request to a *.top domain","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"12"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"PROTOCOL-ICMP Time-To-Live Exceeded in Transit","number of events":"9"}}
+{"preview":false,"result":{"signatures":["ET POLICY Cryptocurrency Miner Checkin","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"62"}}
+{"preview":false,"result":{"signatures":"ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY IP Check Domain (icanhazip. com in HTTP Host)","ET TROJAN Possible NanoCore C2 60B","IPREP - Blocklist IP myip.ms","PROTOCOL-ICMP Time-To-Live Exceeded in Transit","Traffic to TCP/25 (SMTP)"],"number of events":"344"}}
+{"preview":false,"result":{"signatures":"ET CHAT MSN status change","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY HTTP Request to .su TLD (Soviet Union) Often Malware Related","number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET USER_AGENTS Observed Suspicious UA (NSIS_Inetc (Mozilla))","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"627"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"12"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP talos","number of events":"6"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP talos","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential SSH Scan OUTBOUND","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"43"}}
+{"preview":false,"result":{"signatures":["ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"36"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO Suspicious Domain (*.icu) in TLS SNI","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","MALWARE [PTsecurity] Backdoor.Win32/Remcos RAT connection"],"number of events":"6"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"12"}}
+{"preview":false,"result":{"signatures":"ET SCAN Potential SSH Scan OUTBOUND","number of events":"2027"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"15"}}
+{"preview":false,"result":{"signatures":"ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5.","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"1"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","Traffic to TCP/25 (SMTP)"],"number of events":"646"}}
+{"preview":false,"result":{"signatures":["ET CHAT IRC NICK command","ET CHAT IRC USER command","ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","ET INFO WinHttp AutoProxy Request wpad.dat Possible BadTunnel","ET POLICY Outgoing Basic Auth Base64 HTTP Password detected unencrypted"],"number of events":"434"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP blacklistDE"],"number of events":"36"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"5"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"16"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP talos","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET SCAN Potential SSH Scan","ET SCAN Potential SSH Scan OUTBOUND"],"number of events":"207"}}
+{"preview":false,"result":{"signatures":["ET POLICY HTTP Outbound Request contains pw","GPL SNMP public access udp"],"number of events":"4316"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"6"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"12"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5.","ET POLICY Unsupported/Fake Windows NT Version 5.0","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"16"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain Request for Possible COVID-19 Domain M2","ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M2","IPREP - Blocklist IP talos"],"number of events":"13"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET EXPLOIT Malformed HeartBeat Request"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"12"}}
+{"preview":false,"result":{"signatures":"ET POLICY HTTP POST to MEGA Userstorage","number of events":"54"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET EXPLOIT Malformed HeartBeat Request","ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET EXPLOIT Possible TLS HeartBleed Unencrypted Request Method 3 (Inbound to Common SSL Port)","GPL ATTACK_RESPONSE command completed","GPL SNMP public access udp"],"number of events":"13245"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP blacklistDE"],"number of events":"26"}}
+{"preview":false,"result":{"signatures":["ET CHAT IRC JOIN command","ET CHAT IRC NICK command","ET CHAT IRC USER command","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"173"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos","Traffic to TCP/25 (SMTP)"],"number of events":"590"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5.","ET POLICY Unsupported/Fake Windows NT Version 5.0"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"4"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"406"}}
+{"preview":false,"result":{"signatures":["ET POLICY Outbound MSSQL Connection to Non-Standard Port - Likely Malware","Traffic to TCP/25 (SMTP)"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to Suspicious *.world Domain","ET POLICY Cryptocurrency Miner Checkin","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","IPREP - Blocklist IP talos"],"number of events":"93"}}
+{"preview":false,"result":{"signatures":["ET CHAT Google IM traffic Jabber client sign-on","GPL CHAT Google Talk Logon","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"13"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious GET Request with Possible COVID-19 URI M1","ET INFO Suspicious GET Request with Possible COVID-19 URI M2"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"2"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"3047"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain (*.ml) in TLS SNI","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY IP Check Domain (icanhazip. com in HTTP Host)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"12"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Python-urllib/ Suspicious User Agent","ET SCAN Potential SSH Scan","ET SCAN Potential SSH Scan OUTBOUND","ET SCAN Suspicious inbound to mySQL port 3306","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"1146"}}
+{"preview":false,"result":{"signatures":["ET POLICY possible OnePlus phone data leakage DNS","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"25"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":"MALWARE [PTsecurity] Backdoor.Win32/Remcos RAT connection","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET CHAT MSN status change","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET INFO Suspicious Domain (*.icu) in TLS SNI","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"58"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"30"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain (*.icu) in TLS SNI","number of events":"1"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"20"}}
+{"preview":false,"result":{"signatures":["ET POLICY Data POST to an image file (gif)","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"13"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP talos","TOOLS [PTsecurity] Burp Suite tool activity. portswigger.net resolve","Traffic to TCP/25 (SMTP)"],"number of events":"13"}}
+{"preview":false,"result":{"signatures":"ET SCAN Potential SSH Scan OUTBOUND","number of events":"4"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","IPREP - Blocklist IP blacklistDE"],"number of events":"8"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"12"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.ml) in TLS SNI","IPREP - Blocklist IP blacklistDE"],"number of events":"8"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP talos","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.ga) in TLS SNI","ET INFO Suspicious Domain (*.gq) in TLS SNI","ET INFO Suspicious Domain (*.ml) in TLS SNI"],"number of events":"6"}}
+{"preview":false,"result":{"signatures":["ET SCAN Suspicious inbound to PostgreSQL port 5432","GPL SNMP public access udp"],"number of events":"7106"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain Request for Possible COVID-19 Domain M1","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to Suspicious *.cloud Domain","ET SCAN Potential SSH Scan OUTBOUND"],"number of events":"200"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"12"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","IPREP - Blocklist IP talos"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["GPL SNMP public access udp","IPREP - Blocklist IP blacklistDE"],"number of events":"1722"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.cf) in TLS SNI","ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","IPREP - Blocklist IP myip.ms","Traffic to TCP/25 (SMTP)"],"number of events":"18"}}
+{"preview":false,"result":{"signatures":["ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP blacklistDE"],"number of events":"50"}}
+{"preview":false,"result":{"signatures":"ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO Suspicious Domain Request for Possible COVID-19 Domain M2","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP talos"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":["ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"131"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET SCAN Potential FTP Brute-Force attempt response","GPL SNMP public access udp","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos","Traffic to TCP/25 (SMTP)"],"number of events":"1197"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"32"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY Outdated Flash Version M1","number of events":"16"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO UPnP Discovery Search Response vulnerable UPnP device 1"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":["ET INFO WinHttp AutoProxy Request wpad.dat Possible BadTunnel","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"54"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"12"}}
+{"preview":false,"result":{"signatures":"ET POLICY Outdated Flash Version M1","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain Request for Possible COVID-19 Domain M1","ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M1","ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","GPL SNMP public access udp","petre SMTP "],"number of events":"749"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Outgoing Basic Auth Base64 HTTP Password detected unencrypted","ET SCAN Suspicious inbound to mySQL port 3306"],"number of events":"42"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"11"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP talos"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET POLICY HTTP Outbound Request contains pw","number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET CHAT MSN status change","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","GPL SNMP public access udp"],"number of events":"1404"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"89"}}
+{"preview":false,"result":{"signatures":"ET POLICY W32/BitCoinMiner.MultiThreat Subscribe/Authorize Stratum Protocol Message","number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"7"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"289"}}
+{"preview":false,"result":{"signatures":"ET POLICY IP Check Domain (whatismyip in HTTP Host)","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO Suspicious Domain (*.ml) in TLS SNI"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"33"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential FTP Brute-Force attempt response","IPREP - Blocklist IP blacklistDE"],"number of events":"1030"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response (Server Init Vuln Client)","ET INFO HTTP Request to Suspicious *.cloud Domain","ET POLICY HTTP Outbound Request contains pw","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"229"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain (*.cf) in TLS SNI","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","number of events":"4"}}
+{"preview":false,"result":{"signatures":["ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5.","ET POLICY Unsupported/Fake Windows NT Version 5.0"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"33"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"30"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP myip.ms","MALWARE [PTsecurity] Backdoor.Win32/Remcos RAT connection"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET CHAT MSN status change","number of events":"1"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos","Traffic to TCP/25 (SMTP)"],"number of events":"747"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain Request for Possible COVID-19 Domain M1","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","ET SCAN Behavioral Unusual Port 445 traffic Potential Scan or Infection"],"number of events":"13"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO HTTP Request to Suspicious *.cloud Domain","ET POLICY HTTP Outbound Request contains pw","ET SCAN Behavioral Unusual Port 445 traffic Potential Scan or Infection"],"number of events":"735"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"3781"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"11"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"16"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"5164"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to Suspicious *.cloud Domain","ET POLICY Software Install Reporting via HTTP - Wise User Agent (Wise) Sometimes Malware Related"],"number of events":"84"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP blacklistDE"],"number of events":"19"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"24"}}
+{"preview":false,"result":{"signatures":["ET TROJAN Backdoor family PCRat/Gh0st CnC traffic","ET TROJAN Backdoor family PCRat/Gh0st CnC traffic (OUTBOUND) 4","IPREP - Blocklist IP blacklistDE"],"number of events":"26"}}
+{"preview":false,"result":{"signatures":["ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","IPREP - Blocklist IP blacklistDE"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"286"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.cf) in TLS SNI","ET INFO Suspicious Domain (*.ga) in TLS SNI","ET INFO Suspicious Domain (*.ml) in TLS SNI","ET POLICY IP Check Domain (whatismyip in HTTP Host)"],"number of events":"10"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"4"}}
+{"preview":false,"result":{"signatures":["ET POLICY IP Check (rl. ammyy. com)","ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","ET SCAN Suspicious inbound to mySQL port 3306","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL SQL MYSQL show databases attempt","IPREP - Blocklist IP blacklistDE"],"number of events":"15"}}
+{"preview":false,"result":{"signatures":"ET INFO WinHttp AutoProxy Request wpad.dat Possible BadTunnel","number of events":"4"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Potential Spyware Domain (app .hubstaff .com) in TLS SNI"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY HTTP POST contains pass= in cleartext","IPREP - Blocklist IP blacklistDE"],"number of events":"25"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":"ET TROJAN Backdoor family PCRat/Gh0st CnC traffic (OUTBOUND) 107","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET GAMES Blizzard Web Downloader Install Detected","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to a *.top domain","ET SCAN Potential SSH Scan OUTBOUND","ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL SNMP public access udp"],"number of events":"2936"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain Request for Possible COVID-19 Domain M1","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET SCAN Potential VNC Scan 5900-5920","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"37"}}
+{"preview":false,"result":{"signatures":"Traffic to TCP/25 (SMTP)","number of events":"11"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"12"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"10"}}
+{"preview":false,"result":{"signatures":["ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"30"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"257"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"232"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"48"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","IPREP - Blocklist IP myip.ms"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY MS Remote Desktop Administrator Login Request","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","GPL SCAN superscan echo","GPL SNMP public access udp"],"number of events":"6388"}}
+{"preview":false,"result":{"signatures":"ET WEB_CLIENT SUSPICIOUS Possible automated connectivity check (www.yahoo.com)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY HTTP Outbound Request contains pw","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","Traffic to TCP/25 (SMTP)"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":"ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","number of events":"3"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET POLICY HTTP Outbound Request contains pw"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET INFO HTTP Request to Suspicious *.life Domain","number of events":"8"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"PROTOCOL-ICMP Time-To-Live Exceeded in Transit","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO HTTP Request to Suspicious *.cloud Domain"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M1","number of events":"8"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","IPREP - Blocklist IP blacklistDE"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential VNC Scan 5800-5820","ET SCAN Potential VNC Scan 5900-5920","ET SCAN Suspicious inbound to MSSQL port 1433","IPREP - Blocklist IP blacklistDE"],"number of events":"24"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"24"}}
+{"preview":false,"result":{"signatures":["GPL SNMP public access udp","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"3501"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to a *.pw domain","ET INFO Suspicious Domain (*.icu) in TLS SNI","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"34"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"398"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to a *.pw domain","ET INFO TLS Handshake Failure","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET WEB_CLIENT Suspicious HTML Script Tag in 401 Unauthorized Response (External Source)","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos","Traffic to TCP/25 (SMTP)"],"number of events":"2004"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET POLICY Python-urllib/ Suspicious User Agent","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"18"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"1"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY OpenVPN Update Check"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET SCAN Rapid IMAP Connections - Possible Brute Force Attack","number of events":"12"}}
+{"preview":false,"result":{"signatures":"ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5.","number of events":"6"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET SCAN Potential SSH Scan OUTBOUND","IPREP - Blocklist IP blacklistDE"],"number of events":"450481"}}
+{"preview":false,"result":{"signatures":["ET POLICY Http Client Body contains pwd= in cleartext","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"11"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","Traffic to TCP/25 (SMTP)"],"number of events":"304"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"8"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"16"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.ml) in TLS SNI","ET SCAN Suspicious inbound to MSSQL port 1433","GPL MISC UPnP malformed advertisement"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"9"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5.","ET POLICY Unsupported/Fake Windows NT Version 5.0"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","IPREP - Blocklist IP blacklistDE"],"number of events":"29"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"12"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.cf) in TLS SNI","ET POLICY Cryptocurrency Miner Checkin","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","Traffic to TCP/25 (SMTP)"],"number of events":"27"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP blacklistDE"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.ga) in TLS SNI","ET POLICY Python-urllib/ Suspicious User Agent","IPREP - Blocklist IP talos"],"number of events":"14"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY request to .xxx TLD"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY Outgoing Basic Auth Base64 HTTP Password detected unencrypted"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","IPREP - Blocklist IP talos"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"33"}}
+{"preview":false,"result":{"signatures":"GPL IMAP fetch overflow attempt","number of events":"6"}}
+{"preview":false,"result":{"signatures":["ET POLICY possible OnePlus phone data leakage DNS","IPREP - Blocklist IP myip.ms","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"17"}}
+{"preview":false,"result":{"signatures":["ET INFO Dotted Quad Host PDF Request","IPREP - Blocklist IP blacklistDE"],"number of events":"14"}}
+{"preview":false,"result":{"signatures":"ET INFO HTTP Request to Suspicious *.life Domain","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY Vulnerable Java Version 11.0.x Detected","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"6"}}
+{"preview":false,"result":{"signatures":"ET INFO WinHttp AutoProxy Request wpad.dat Possible BadTunnel","number of events":"4"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"8"}}
+{"preview":false,"result":{"signatures":"PROTOCOL-ICMP Time-To-Live Exceeded in Transit","number of events":"2"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential SSH Scan OUTBOUND","IPREP - Blocklist IP blacklistDE"],"number of events":"15"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"35"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY Outdated Flash Version M1"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"4"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET SCAN Suspicious inbound to Oracle SQL port 1521","number of events":"5"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"16"}}
+{"preview":false,"result":{"signatures":["ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET TROJAN Backdoor family PCRat/Gh0st CnC traffic","ET TROJAN Backdoor family PCRat/Gh0st CnC traffic (OUTBOUND) 104"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"14"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"53"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"9"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY [401TRG] DropBox Access via API (SNI)","ET SCAN Potential SSH Scan OUTBOUND"],"number of events":"9"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"39"}}
+{"preview":false,"result":{"signatures":"ET SCAN Suspicious inbound to mySQL port 3306","number of events":"10"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to a *.pw domain","ET SCAN Potential VNC Scan 5800-5820","ET TROJAN Possible Variant.Kazy.53640 Malformed Client Hello SSL 3.0 (Cipher_Suite length greater than Client_Hello Length)","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"240"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M1","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO .exe File requested over FTP","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"51"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"27"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET SCAN Potential VNC Scan 5900-5920","ET SCAN Suspicious inbound to Oracle SQL port 1521","IPREP - Blocklist IP talos"],"number of events":"155"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","IPREP - Blocklist IP talos"],"number of events":"9"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Google Talk Startup","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"79"}}
+{"preview":false,"result":{"signatures":["ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"31"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"13"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5.","ET POLICY Unsupported/Fake Windows NT Version 5.0","ET POLICY [401TRG] DropBox Access via API (SNI)"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET SCAN Behavioral Unusual Port 135 traffic Potential Scan or Infection","GPL SNMP public access udp"],"number of events":"4056"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"17"}}
+{"preview":false,"result":{"signatures":"ET POLICY Python-urllib/ Suspicious User Agent","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY Python-urllib/ Suspicious User Agent","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","IPREP - Blocklist IP myip.ms"],"number of events":"15"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain (*.ml) in TLS SNI","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential FTP Brute-Force attempt response","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos","Traffic to TCP/25 (SMTP)"],"number of events":"1229"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","Traffic to TCP/25 (SMTP)"],"number of events":"640"}}
+{"preview":false,"result":{"signatures":"ET POLICY IP Check Domain (whatismyip in HTTP Host)","number of events":"11"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M2","number of events":"2"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET POLICY Outdated Flash Version M1","ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","GPL SNMP public access udp","IPREP - Blocklist IP blacklistDE","Traffic to TCP/25 (SMTP)"],"number of events":"358"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"9"}}
+{"preview":false,"result":{"signatures":["ET SCAN Behavioral Unusual Port 135 traffic Potential Scan or Infection","GPL SNMP public access udp"],"number of events":"179"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M2","ET POLICY HTTP Outbound Request contains pw","ET SCAN MS Terminal Server Traffic on Non-standard Port"],"number of events":"25"}}
+{"preview":false,"result":{"signatures":["ATTACK [PTsecurity] CoronaBlue/SMBGhost DOS/RCE Attempt (CVE-2020-0796)","ET CHAT MSN status change","GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP blacklistDE"],"number of events":"137"}}
+{"preview":false,"result":{"signatures":["ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5.","ET POLICY Unsupported/Fake Windows NT Version 5.0"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential FTP Brute-Force attempt response","GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP blacklistDE","Traffic to TCP/25 (SMTP)"],"number of events":"781"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential SSH Scan","ET SCAN Potential SSH Scan OUTBOUND"],"number of events":"13"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"3"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"6"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY IP Check Domain (icanhazip. com in HTTP Host)","Traffic to TCP/25 (SMTP)"],"number of events":"10"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET SCAN Rapid IMAP Connections - Possible Brute Force Attack","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"6991"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"90"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY HTTP Request to .su TLD (Soviet Union) Often Malware Related","number of events":"4"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"7"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"9"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M2","number of events":"24"}}
+{"preview":false,"result":{"signatures":["ET POLICY Outdated Flash Version M1","ET POLICY Python-urllib/ Suspicious User Agent"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"11"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP talos"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":"ET POLICY Outgoing Basic Auth Base64 HTTP Password detected unencrypted","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","petre SMTP "],"number of events":"9"}}
+{"preview":false,"result":{"signatures":"ET POLICY W32/BitCoinMiner.MultiThreat Subscribe/Authorize Stratum Protocol Message","number of events":"1"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET POLICY Unsupported/Fake FireFox Version 2.","IPREP - Blocklist IP blacklistDE"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential VNC Scan 5900-5920","GPL SNMP public access udp","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"373"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP blacklistDE"],"number of events":"17"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"12"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO HTTP Request to Suspicious *.life Domain","IPREP - Blocklist IP blacklistDE"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP blacklistDE"],"number of events":"64"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET TROJAN Backdoor family PCRat/Gh0st CnC traffic (OUTBOUND) 104","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"9"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"12"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET SCAN Potential SSH Scan OUTBOUND","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"6"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"5"}}
+{"preview":false,"result":{"signatures":["ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5.","IPREP - Blocklist IP blacklistDE"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to Suspicious *.life Domain","MALWARE [PTsecurity] Backdoor.Win32/Remcos RAT connection"],"number of events":"9"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET INFO Dotted Quad Host DLL Request","ET POLICY IP Check Domain (icanhazip. com in HTTP Host)","ET SCAN Potential VNC Scan 5800-5820","Traffic to TCP/25 (SMTP)"],"number of events":"235"}}
+{"preview":false,"result":{"signatures":"ET INFO WinHttp AutoProxy Request wpad.dat Possible BadTunnel","number of events":"24"}}
+{"preview":false,"result":{"signatures":"Traffic to TCP/25 (SMTP)","number of events":"3"}}
+{"preview":false,"result":{"signatures":"Traffic to TCP/25 (SMTP)","number of events":"137"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"21"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO WinHttp AutoProxy Request wpad.dat Possible BadTunnel","ET SCAN Behavioral Unusual Port 135 traffic Potential Scan or Infection"],"number of events":"14"}}
+{"preview":false,"result":{"signatures":["ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"26"}}
+{"preview":false,"result":{"signatures":"petre SMTP ","number of events":"4"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"2"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"312"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","GPL SNMP public access udp"],"number of events":"1733"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"19"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain Request for Possible COVID-19 Domain M1","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"5"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"2"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP talos","number of events":"15"}}
+{"preview":false,"result":{"signatures":["ET INFO TLS Handshake Failure","GPL SNMP public access udp","IPREP - Blocklist IP blacklistDE"],"number of events":"20310"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.ga) in TLS SNI","ET INFO Suspicious Domain (*.ml) in TLS SNI"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.cf) in TLS SNI","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"6"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"4"}}
+{"preview":false,"result":{"signatures":"ET POLICY HTTP POST contains pass= in cleartext","number of events":"5"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"5"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET SCAN Rapid IMAP Connections - Possible Brute Force Attack","ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack"],"number of events":"23"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"310"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain Request for Possible COVID-19 Domain M1","ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5."],"number of events":"17"}}
+{"preview":false,"result":{"signatures":["ET POLICY IP Check Domain (icanhazip. com in HTTP Host)","Traffic to TCP/25 (SMTP)"],"number of events":"1365"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO DYNAMIC_DNS HTTP Request to a *.dyndns.* domain","ET INFO HTTP Request to a *.pw domain"],"number of events":"189"}}
+{"preview":false,"result":{"signatures":"Traffic to TCP/25 (SMTP)","number of events":"97"}}
+{"preview":false,"result":{"signatures":["ET POLICY Python-urllib/ Suspicious User Agent","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","GPL SNMP public access udp"],"number of events":"1176"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO SOCKSv5 DNS Inbound Request (Linux Source)","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"210"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ATTACK [PTsecurity] Suspicious explicitly-defined ECC parameters. Possible CVE-2020-0601 crafted certificate","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET CURRENT_EVENTS Terse alphanumeric executable downloader high likelihood of being hostile","ET INFO Executable Download from dotted-quad Host","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"6"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET SCAN Suspicious inbound to Oracle SQL port 1521","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","ET INFO WinHttp AutoProxy Request wpad.dat Possible BadTunnel"],"number of events":"19"}}
+{"preview":false,"result":{"signatures":"ET POLICY request to .xxx TLD","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"918"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP talos","number of events":"1"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"12"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"27"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"10"}}
+{"preview":false,"result":{"signatures":["ET POLICY Outgoing Basic Auth Base64 HTTP Password detected unencrypted","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"11"}}
+{"preview":false,"result":{"signatures":"ET POLICY HTTP POST to MEGA Userstorage","number of events":"26"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"10"}}
+{"preview":false,"result":{"signatures":["ET POLICY HTTP Request to .su TLD (Soviet Union) Often Malware Related","IPREP - Blocklist IP myip.ms"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.ml) in TLS SNI","ET POLICY HTTP POST to MEGA Userstorage"],"number of events":"27"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP myip.ms"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential SSH Scan","ET SCAN Potential SSH Scan OUTBOUND"],"number of events":"443"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"287"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"3"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY possible OnePlus phone data leakage DNS","number of events":"9"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to Suspicious *.work Domain","ET POLICY HTTP POST contains pass= in cleartext","ET SCAN Potential SSH Scan OUTBOUND","ET SCAN Potential VNC Scan 5800-5820","ET SCAN Potential VNC Scan 5900-5920","ET SCAN Suspicious inbound to PostgreSQL port 5432","ET SCAN Suspicious inbound to mSQL port 4333","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"119"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"12"}}
+{"preview":false,"result":{"signatures":"Traffic to TCP/25 (SMTP)","number of events":"100"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP talos","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY Http Client Body contains pwd= in cleartext","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY Outgoing Basic Auth Base64 HTTP Password detected unencrypted","ET POLICY Python-urllib/ Suspicious User Agent","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"22"}}
+{"preview":false,"result":{"signatures":"ET POLICY Outdated Flash Version M1","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"646"}}
+{"preview":false,"result":{"signatures":"Traffic to TCP/25 (SMTP)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY Python-urllib/ Suspicious User Agent","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"29"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to a *.top domain","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"87"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to Suspicious *.cloud Domain","ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M1"],"number of events":"220"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET SCAN Behavioral Unusually fast Terminal Server Traffic Potential Scan or Infection (Inbound)","ET SCAN Behavioral Unusually fast Terminal Server Traffic Potential Scan or Infection (Outbound)"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","MALWARE [PTsecurity] Backdoor.Win32/Remcos RAT connection"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain Request for Possible COVID-19 Domain M2","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","MALWARE [PTsecurity] Backdoor.Win32/Remcos RAT connection"],"number of events":"140"}}
+{"preview":false,"result":{"signatures":["ET SCAN Behavioral Unusual Port 1433 traffic Potential Scan or Infection","ET SCAN Potential SSH Scan OUTBOUND","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"232"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"4"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY IP Check Domain (icanhazip. com in HTTP Host)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos","Traffic to TCP/25 (SMTP)"],"number of events":"2073"}}
+{"preview":false,"result":{"signatures":"ET TROJAN Backdoor family PCRat/Gh0st CnC traffic (OUTBOUND) 106","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY possible OnePlus phone data leakage DNS","ET SCAN Potential FTP Brute-Force attempt response","GPL SNMP public access udp","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos","Traffic to TCP/25 (SMTP)"],"number of events":"5313"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET INFO WinHttp AutoProxy Request wpad.dat Possible BadTunnel","number of events":"7"}}
+{"preview":false,"result":{"signatures":"PROTOCOL-ICMP Time-To-Live Exceeded in Transit","number of events":"18"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET SCAN Behavioral Unusually fast Terminal Server Traffic Potential Scan or Infection (Outbound)","ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":["ET INFO TLS Handshake Failure","ET POLICY OpenSSL Demo CA - Internet Widgits Pty (O)","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos","Traffic to TCP/25 (SMTP)"],"number of events":"229"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"146"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"37"}}
+{"preview":false,"result":{"signatures":["ET TROJAN Backdoor family PCRat/Gh0st CnC traffic (OUTBOUND) 107","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos","MALWARE [PTsecurity] Backdoor.Win32/Remcos RAT connection"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"13"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP blacklistDE"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET TROJAN NetWire / Ozone / Darktrack Alien RAT - Client KeepAlive","number of events":"1"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"2"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"11"}}
+{"preview":false,"result":{"signatures":["ET POLICY Outgoing Basic Auth Base64 HTTP Password detected unencrypted","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","IPREP - Blocklist IP blacklistDE"],"number of events":"8"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious GET Request with Possible COVID-19 URI M1","ET INFO UPnP Discovery Search Response vulnerable UPnP device 1"],"number of events":"23"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO HTTP Request to a *.top domain","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"144"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET WEB_CLIENT SUSPICIOUS Possible automated connectivity check (www.google.com)","GPL SNMP public access udp"],"number of events":"6"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential VNC Scan 5800-5820","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","IPREP - Blocklist IP blacklistDE"],"number of events":"135"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY QQ Browser WUP Request - qbpcstatf.stat"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain Request for Possible COVID-19 Domain M1","ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M1"],"number of events":"6"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"71"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"14"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET SCAN Potential SSH Scan","ET SCAN Potential SSH Scan OUTBOUND","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"21"}}
+{"preview":false,"result":{"signatures":"ET SCAN Potential SSH Scan OUTBOUND","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET POLICY Data POST to an image file (jpg)","ET POLICY Outgoing Basic Auth Base64 HTTP Password detected unencrypted"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":"ET INFO WinHttp AutoProxy Request wpad.dat Possible BadTunnel","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"13"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"5"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Outdated Flash Version M1"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"PROTOCOL-ICMP Time-To-Live Exceeded in Transit","number of events":"1"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"14"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY Vulnerable Java Version 11.0.x Detected"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT MS-SQL SQL Injection closing string plus line comment","ET SCAN Behavioral Unusual Port 1433 traffic Potential Scan or Infection","ET SCAN Suspicious inbound to MSSQL port 1433","GPL SNMP public access udp"],"number of events":"305"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain Request for Possible COVID-19 Domain M2","number of events":"4"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M2","number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"8"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET SCAN Potential SSH Scan OUTBOUND"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to Suspicious *.world Domain","ET POLICY Vulnerable Java Version 11.0.x Detected"],"number of events":"12"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"6"}}
+{"preview":false,"result":{"signatures":["ET POLICY IP Check Domain (icanhazip. com in HTTP Host)","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","Traffic to TCP/25 (SMTP)"],"number of events":"337"}}
+{"preview":false,"result":{"signatures":"ET INFO HTTP Request to Suspicious *.cloud Domain","number of events":"5"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","Traffic to TCP/25 (SMTP)"],"number of events":"18"}}
+{"preview":false,"result":{"signatures":["ET POLICY possible OnePlus phone data leakage DNS","IPREP - Blocklist IP talos"],"number of events":"19"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","Traffic to TCP/25 (SMTP)"],"number of events":"366"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"4"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"24"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to Suspicious *.life Domain","ET TROJAN IRC Nick change on non-standard port"],"number of events":"13"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO Suspicious Domain (*.ml) in TLS SNI","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP myip.ms"],"number of events":"23"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain (*.ga) in TLS SNI","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"35"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential VNC Scan 5800-5820","ET SCAN Potential VNC Scan 5900-5920","ET SCAN Suspicious inbound to MSSQL port 1433","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"198"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"29"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Potential Spyware Domain (app .hubstaff .com) in TLS SNI","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET INFO DYNAMIC_DNS HTTP Request to a *.dyndns.* domain","number of events":"72"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"17"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO Suspicious Domain Request for Possible COVID-19 Domain M1"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET TROJAN Backdoor family PCRat/Gh0st CnC traffic","number of events":"1"}}
+{"preview":false,"result":{"signatures":["GPL SNMP public access udp","IPREP - Blocklist IP blacklistDE","Traffic to TCP/25 (SMTP)"],"number of events":"1769"}}
+{"preview":false,"result":{"signatures":"PROTOCOL-ICMP Time-To-Live Exceeded in Transit","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M1","ET SCAN Rapid IMAP Connections - Possible Brute Force Attack","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"9"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP myip.ms"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"5"}}
+{"preview":false,"result":{"signatures":["ET POLICY HTTP Outbound Request contains pw","ET POLICY HTTP POST to MEGA Userstorage","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"1139"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","IPREP - Blocklist IP blacklistDE","MALWARE [PTsecurity] Backdoor.Win32/Remcos RAT connection"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"179"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"15"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to Suspicious *.cloud Domain","ET INFO SOCKSv5 DNS Inbound Request (Linux Source)","ET INFO SOCKSv5 HTTP Proxy Inbound Request (Linux Source)","ET INFO SOCKSv5 Port 443 Inbound Request (Linux Source)","ET POLICY HTTP Outbound Request contains pw"],"number of events":"76"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","IPREP - Blocklist IP blacklistDE"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET INFO Executable Download from dotted-quad Host","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY Outdated Flash Version M1"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"18"}}
+{"preview":false,"result":{"signatures":"ET POLICY HTTP Outbound Request contains pw","number of events":"1"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M1","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET TROJAN Backdoor family PCRat/Gh0st CnC traffic","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":["ET POLICY IP Check Domain (whatismyip in HTTP Host)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"29"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.ml) in TLS SNI","IPREP - Blocklist IP myip.ms"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET SCAN Suspicious inbound to mySQL port 3306","number of events":"10"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain (*.icu) in TLS SNI","number of events":"1"}}
+{"preview":false,"result":{"signatures":"Traffic to TCP/25 (SMTP)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"23"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to a *.pw domain","ET INFO Suspicious Domain (*.icu) in TLS SNI","ET MALWARE OSX ADWARE/AD Injector","ET POLICY IP Check Domain (icanhazip. com in HTTP Host)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","Traffic to TCP/25 (SMTP)"],"number of events":"1172"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"12"}}
+{"preview":false,"result":{"signatures":"ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP blacklistDE","PROTOCOL-ICMP Time-To-Live Exceeded in Transit","Traffic to TCP/25 (SMTP)"],"number of events":"33"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY HTTP Request to .su TLD (Soviet Union) Often Malware Related","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY Unsupported/Fake FireFox Version 2.","ET WEB_CLIENT SUSPICIOUS Possible automated connectivity check (www.google.com)"],"number of events":"17"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"42"}}
+{"preview":false,"result":{"signatures":["GPL SNMP public access udp","GPL SQL sa brute force failed login unicode attempt","GPL SQL sa login failed","IPREP - Blocklist IP blacklistDE","SQL sa brute force failed login unicode attempt"],"number of events":"19400"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to a *.pw domain","ET INFO Suspicious Domain (*.icu) in TLS SNI"],"number of events":"184"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.ga) in TLS SNI","ET INFO Suspicious Domain (*.ml) in TLS SNI","IPREP - Blocklist IP blacklistDE"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5.","ET POLICY Unsupported/Fake Windows NT Version 5.0","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"99"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","IPREP - Blocklist IP talos"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to Suspicious *.life Domain","Traffic to TCP/25 (SMTP)"],"number of events":"47"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET INFO Suspicious Domain (*.icu) in TLS SNI","GPL CHAT Jabber/Google Talk Outgoing Traffic","MALWARE [PTsecurity] Backdoor.Win32/Remcos RAT connection"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"100"}}
+{"preview":false,"result":{"signatures":"MALWARE [PTsecurity] Backdoor.Win32/Remcos RAT connection","number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET POLICY Windows-Based OpenSSL Tunnel Outbound","number of events":"15"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"6"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Malformed HeartBeat Request","ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET EXPLOIT Possible TLS HeartBleed Unencrypted Request Method 3 (Inbound to Common SSL Port)"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M2","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","GPL DNS zone transfer UDP"],"number of events":"14"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET SCAN MS Terminal Server Traffic on Non-standard Port","GPL SNMP public access udp"],"number of events":"458"}}
+{"preview":false,"result":{"signatures":["ET POLICY IP Check Domain (whatismyip in HTTP Host)","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"49"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET SCAN Potential SSH Scan OUTBOUND","IPREP - Blocklist IP talos"],"number of events":"9"}}
+{"preview":false,"result":{"signatures":"ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","number of events":"2"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"6"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET SCAN Suspicious inbound to MSSQL port 1433","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"10"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious GET Request with Possible COVID-19 URI M1","ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M1"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"10697"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain Request for Possible COVID-19 Domain M2","ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M2"],"number of events":"48"}}
+{"preview":false,"result":{"signatures":["ET POLICY Unsupported/Fake FireFox Version 2.","ET SCAN Potential VNC Scan 5800-5820","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"46"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET INFO DYNAMIC_DNS HTTP Request to a no-ip Domain","ET SCAN Behavioral Unusually fast Terminal Server Traffic Potential Scan or Infection (Outbound)","ET SHELLCODE Possible Call with No Offset TCP Shellcode","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos","Traffic to TCP/25 (SMTP)"],"number of events":"656"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","GPL SNMP public access udp"],"number of events":"205"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET POLICY Vulnerable Java Version 1.8.x Detected"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.gq) in TLS SNI","ET INFO Suspicious Domain (*.ml) in TLS SNI"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"3386"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","ET POLICY IP Check Domain (whatismyip in HTTP Host)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"30"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"2"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"4362"}}
+{"preview":false,"result":{"signatures":["ET SCAN Suspicious inbound to MSSQL port 1433","ET SCAN Suspicious inbound to mySQL port 3306","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"35"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET SCAN Potential VNC Scan 5800-5820","ET SCAN Potential VNC Scan 5900-5920","ET SCAN Suspicious inbound to MSSQL port 1433","ET SCAN Suspicious inbound to Oracle SQL port 1521","ET SCAN Suspicious inbound to mySQL port 3306","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"91"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP blacklistDE"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5.","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET INFO HTTP Request to a *.top domain","ET POLICY request to .xxx TLD"],"number of events":"12"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET POLICY Python-urllib/ Suspicious User Agent","ET SCAN MS Terminal Server Traffic on Non-standard Port","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"15"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"166"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"1"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"1"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","GPL CHAT Google Talk Startup","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"44"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"10"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain Request for Possible COVID-19 Domain M2","number of events":"2"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"19"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET SCAN Potential VNC Scan 5800-5820","ET SCAN Potential VNC Scan 5900-5920","ET SCAN Suspicious inbound to Oracle SQL port 1521","ET SCAN Suspicious inbound to PostgreSQL port 5432","ET SCAN Suspicious inbound to mSQL port 4333","ET SCAN Suspicious inbound to mySQL port 3306","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos"],"number of events":"66"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"2339"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"11"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"22"}}
+{"preview":false,"result":{"signatures":["ET POLICY Outdated Flash Version M1","IPREP - Blocklist IP blacklistDE"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"PROTOCOL-ICMP Time-To-Live Exceeded in Transit","number of events":"1"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain (*.ml) in TLS SNI","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET SCAN Potential SSH Scan OUTBOUND","number of events":"4"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO Suspicious Domain (*.ga) in TLS SNI"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"2"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos","Traffic to TCP/25 (SMTP)"],"number of events":"1340"}}
+{"preview":false,"result":{"signatures":"GPL CHAT Jabber/Google Talk Outgoing Traffic","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"18"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET SCAN MS Terminal Server Traffic on Non-standard Port"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY Python-urllib/ Suspicious User Agent","GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP blacklistDE"],"number of events":"88"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.cf) in TLS SNI","ET INFO Suspicious Domain (*.ga) in TLS SNI","ET INFO Suspicious Domain (*.ml) in TLS SNI"],"number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET POLICY HTTP Outbound Request contains pw","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY POSSIBLE Web Crawl using Curl","GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos","Traffic to TCP/25 (SMTP)"],"number of events":"404"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"52"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain (*.ga) in TLS SNI","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"2"}}
+{"preview":false,"result":{"signatures":["ET POLICY QQ Browser WUP Request - qbpcstatf.stat","ET POLICY [401TRG] DropBox Access via API (SNI)"],"number of events":"62"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"9"}}
+{"preview":false,"result":{"signatures":["ET POLICY SSLv3 inbound connection to server vulnerable to POODLE attack","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","IPREP - Blocklist IP blacklistDE"],"number of events":"141"}}
+{"preview":false,"result":{"signatures":["ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY Python-urllib/ Suspicious User Agent","ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"36"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential SSH Scan OUTBOUND","GPL CHAT Jabber/Google Talk Outgoing Traffic"],"number of events":"4"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP talos","number of events":"12"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT MS-SQL SQL Injection closing string plus line comment","ET POLICY [401TRG] DropBox Access via API (SNI)","ET SCAN Suspicious inbound to MSSQL port 1433"],"number of events":"223"}}
+{"preview":false,"result":{"signatures":["IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms","IPREP - Blocklist IP talos"],"number of events":"602"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"1796"}}
+{"preview":false,"result":{"signatures":["GPL SNMP public access udp","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP talos","Traffic to TCP/25 (SMTP)"],"number of events":"664"}}
+{"preview":false,"result":{"signatures":"PROTOCOL-ICMP Time-To-Live Exceeded in Transit","number of events":"5"}}
+{"preview":false,"result":{"signatures":"ET INFO UPnP Discovery Search Response vulnerable UPnP device 1","number of events":"6"}}
+{"preview":false,"result":{"signatures":["ET SCAN Potential VNC Scan 5800-5820","ET SCAN Potential VNC Scan 5900-5920","IPREP - Blocklist IP talos"],"number of events":"12"}}
+{"preview":false,"result":{"signatures":"ET POLICY Unsupported/Fake Internet Explorer Version MSIE 5.","number of events":"5"}}
+{"preview":false,"result":{"signatures":"ET POLICY Cryptocurrency Miner Checkin","number of events":"31"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO HTTP Request to Suspicious *.cloud Domain","ET INFO HTTP Request to a *.top domain","IPREP - Blocklist IP blacklistDE"],"number of events":"13"}}
+{"preview":false,"result":{"signatures":"GPL SNMP public access udp","number of events":"92"}}
+{"preview":false,"result":{"signatures":["GPL SNMP public access udp","IPREP - Blocklist IP blacklistDE"],"number of events":"9624"}}
+{"preview":false,"result":{"signatures":["ET CHAT IRC NICK command","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP talos"],"number of events":"26"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY IP Check Domain (icanhazip. com in HTTP Host)","Traffic to TCP/25 (SMTP)"],"number of events":"5"}}
+{"preview":false,"result":{"signatures":["ET CHAT MSN status change","ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)"],"number of events":"7"}}
+{"preview":false,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)"],"number of events":"2"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL IMAP fetch overflow attempt"],"number of events":"97"}}
+{"preview":false,"result":{"signatures":"ET POLICY Outgoing Basic Auth Base64 HTTP Password detected unencrypted","number of events":"4"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET POLICY Cryptocurrency Miner Checkin","ET POLICY possible OnePlus phone data leakage DNS","GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message","IPREP - Blocklist IP blacklistDE","IPREP - Blocklist IP myip.ms"],"number of events":"96"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP myip.ms","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET SCAN Behavioral Unusual Port 135 traffic Potential Scan or Infection","number of events":"1"}}
+{"preview":false,"result":{"signatures":"IPREP - Blocklist IP blacklistDE","number of events":"11"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"3"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["GPL CHAT Jabber/Google Talk Outgoing Traffic","GPL CHAT Jabber/Google Talk Outoing Message"],"number of events":"28"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious Domain (*.icu) in TLS SNI","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET SCAN Potential SSH Scan OUTBOUND","number of events":"4"}}
+{"preview":false,"result":{"signatures":"ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M2","number of events":"2"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":"MALWARE [PTsecurity] Backdor.W32/Virut","number of events":"1"}}
+{"preview":false,"result":{"signatures":"ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","number of events":"122"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious Domain (*.icu) in TLS SNI","ET MALWARE OSX ADWARE/AD Injector","ET POLICY Observed Cloudflare DNS over HTTPS Domain (cloudflare-dns .com in TLS SNI)","ET POLICY Python-urllib/ Suspicious User Agent","ET SCAN Potential VNC Scan 5800-5820","IPREP - Blocklist IP blacklistDE"],"number of events":"22"}}
+{"preview":false,"result":{"signatures":"ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","number of events":"1"}}
+{"preview":false,"result":{"signatures":["ET INFO Suspicious TLS SNI Request for Possible COVID-19 Domain M1","IPREP - Blocklist IP blacklistDE","petre SMTP ","Traffic to TCP/25 (SMTP)"],"number of events":"30"}}
+{"preview":false,"lastrow":true,"result":{"signatures":["ET EXPLOIT Possible OpenSSL HeartBleed Large HeartBeat Response from Common SSL Port (Outbound from Client)","ET INFO Suspicious Domain Request for Possible COVID-19 Domain M1","GPL CHAT Jabber/Google Talk Outgoing Traffic","IPREP - Blocklist IP blacklistDE","PROTOCOL-ICMP Time-To-Live Exceeded in Transit"],"number of events":"84"}}
